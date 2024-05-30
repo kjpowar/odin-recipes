@@ -1,0 +1,27 @@
+/* Recipe Stylesheets*/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.main-heading {color: white;
+    background-color: black;
+    font-weight: 900;
+
+}
+
+a {
+ color: #008002;
+}
+a:visited {
+    color: #008088;
+}
+a:hover, .m1:hover {
+color: #008002;
+background-color: #ffe400;
+
+}
+
+.recipe-menu{
+    background-color: #ffe4cc;
+}
