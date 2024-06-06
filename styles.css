@@ -16,6 +16,7 @@
     text-align: center;
     font-size: 30px;
     margin: auto;
+    visibility:visible  ;
 
 }
 a.home-title-link:link, a.home-title-link:visited{
@@ -36,6 +37,10 @@ a.home-title-link:hover{
     display: block;
     text-align: center;
     padding: 0px;
+    box-sizing: border-box ;
+    max-width: 500px;
+    min-width: 500px;
+    width: 100%;
 }
 
 a.recipe-link:link, a.recipe-link:visited{
@@ -71,9 +76,15 @@ a.recipe-link:hover{
     padding: 10px;
     border-radius: 5%;
     background-color: #d8edff;
-    margin: auto;
+    margin: 0px auto;
     text-align: left;
     display: inline-block;
+    max-width: 500px;
+    min-width: 100px;
+    
+    
+    box-sizing: border-box;
+    
 }
 
 .recipe-image{
