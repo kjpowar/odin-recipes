@@ -38,9 +38,8 @@ a.home-title-link:hover{
     text-align: center;
     padding: 0px;
     box-sizing: border-box ;
-    max-width: 500px;
     min-width: 500px;
-    width: 100%;
+    
 }
 
 a.recipe-link:link, a.recipe-link:visited{
@@ -89,10 +88,10 @@ a.recipe-link:hover{
 
 .recipe-image{
 text-align: left;
-margin: 5px auto;
-border-width: 5px;
+margin: 100px auto;
+
 border-color: #0a2b4c;
-border-style: solid;
+
 padding: 0px;
 display: block;
 }
